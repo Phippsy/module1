@@ -1,6 +1,7 @@
 ## Google Cloud Platform
 
 ## Elasticity
+
 Don't create large clusters of machines which lie redundant - rather, use maximum processing capabilities for the minimum duration, then shut them down.
 
 ## GCP Big Data Products
