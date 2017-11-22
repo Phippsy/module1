@@ -84,7 +84,6 @@ However, people found it hard to get started on this platform.
 
 Google realised they needed to give people greater flexibility in how they deployed and ran their web applications.
 
-
 ![](img/data-platform-overview.png)
 
 
