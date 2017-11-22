@@ -69,19 +69,24 @@ Problem with putting everything in one zone:
 
 ### Resources
 
-[Pricing Calculator](https://cloud.google.com/products/calculator/)
-[Pricing Principles](https://cloud.google.com/pricing/principles)
+- [Pricing Calculator](https://cloud.google.com/products/calculator/)
+- [Pricing Principles](https://cloud.google.com/pricing/principles)
+
 
 ## Section 3 - Managed services for  common use cases
 
+
 History: App Engine was the first Cloud Platform service provided by Google. You wrote `Java` code, uploaded it to App Engine and Google took care of all autoscaling for you.
 However, people found it hard to get started on this platform.
+
 
 ### Stepping stones into the cloud
 
 Google realised they needed to give people greater flexibility in how they deployed and ran their web applications.
 
+
 ![](img/data-platform-overview.png)
+
 
 
 
